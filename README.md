@@ -3,7 +3,7 @@
 - 🔭 Eu trabalho com c++
 - 🌱 Estou aprendendo html/css/javascrpt
 - 👯 Estou fazendo um projeto de uma pizzaria em c++
-- 📫 samuel.avm2@gmail.com
+- 📫 Meu email: samuel.avm2@gmail.com
   </div>
 <div>
   <a href = "https://github.com/samucavm2">
