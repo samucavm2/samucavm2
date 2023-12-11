@@ -1,12 +1,12 @@
 ### Eai, eu sou o Samuel Vasconcelos 
 
-- 🔭 Eu trabalho com c++
-- 🌱 Estou aprendendo html/css/javascrpt
-- 👯 Estou fazendo um projeto d eum pizzaria em c++
-- 💬 Ask me about c++
-- 📫 How to reach me: samuel.avm2@gmail.com
-- ⚡ Fun fact: Back-end > front-end
--->
+🔭 Eu trabalho com c++
+🌱 Estou aprendendo html/css/javascrpt
+👯 Estou fazendo um projeto d eum pizzaria em c++
+💬 Ask me about c++
+📫 How to reach me: samuel.avm2@gmail.com
+⚡ Fun fact: Back-end > front-end
+
 <div>
   <a href = "https://github.com/samucavm2">
     <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=samucavm2&show_icons-true&theme-draculak&include_all_commits=true&count_private-true"/>
