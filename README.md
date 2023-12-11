@@ -1,10 +1,10 @@
 ### Eai, eu sou o Samuel Vasconcelos 
 <div>
 <h6>
-🔭 Eu trabalho com c++<p>
-🌱 Estou aprendendo html/css/javascrpt<p>
-👯 Estou fazendo um projeto de uma pizzaria em c++<p>
-📫 Meu email: samuel.avm2@gmail.com<p>
+<p>🔭 Eu trabalho com c++</p>
+<p>🌱 Estou aprendendo html/css/javascrpt</p>
+<p>👯 Estou fazendo um projeto de uma pizzaria em c++</p>
+<p>📫 Meu email: samuel.avm2@gmail.com</p>
   </h6>
   </div>
 <div>
