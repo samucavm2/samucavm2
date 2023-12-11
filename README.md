@@ -6,7 +6,7 @@
 💬 Ask me about c++
 📫 How to reach me: samuel.avm2@gmail.com
 ⚡ Fun fact: Back-end > front-end
-
+-->
 <div>
   <a href = "https://github.com/samucavm2">
     <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=samucavm2&show_icons-true&theme-draculak&include_all_commits=true&count_private-true"/>
