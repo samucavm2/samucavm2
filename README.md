@@ -3,7 +3,6 @@
 <h6>
 <p>🔭 Eu trabalho com c++</p>
 <p>🌱 Estou aprendendo html/css/javascrpt</p>
-<p>👯 Estom c++</p>
 <p>📫 Meu email: samuel.avm2@gmail.com</p>
   </h6>
   </div>
