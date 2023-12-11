@@ -17,3 +17,10 @@ Here are some ideas to get you started:
     <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=samucavm2&show_icons-true&theme-draculak&include_all_commits=true&count_private-true"/>
     <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samucavm2&layout=compact&lang_count=168theme=dracula"/>
 </div>
+<div style = "display: inline_block"><br>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+          
+  
+</div>
