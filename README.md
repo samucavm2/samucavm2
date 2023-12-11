@@ -1,6 +1,6 @@
 ### Eai, eu sou o Samuel Vasconcelos 
 <div>
-<h3>- 🔭 Eu trabalho com c++<p>
+<h5>- 🔭 Eu trabalho com c++<p>
 - 🌱 Estou aprendendo html/css/javascrpt<p>
 - 👯 Estou fazendo um projeto de uma pizzaria em c++<p>
 - 📫 Meu email: samuel.avm2@gmail.com<p>
