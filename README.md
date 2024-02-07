@@ -2,7 +2,7 @@
 <div>
 <h6>
 <p>🔭 Eu trabalho com c++</p>
-<p>🌱 Estou aprendendo html/css/javascrpt</p>
+<p>🌱 Estou aprendendo Python/Pandas</p>
 <p>📫 Meu email: samuel.avm2@gmail.com</p>
   </h6>
   </div>
